@@ -1,7 +1,7 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
 Sou **Thomaz**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB**.  
-Apaixonado por tecnologia, programação e aprendizado contínuo, estou sempre buscando expandir meus conhecimentos e criar soluções inovadoras.
+Estou sempre em busca de expandir meus conhecimentos e aplicar minhas habilidades para criar soluções inovadoras e eficientes.
 
 ---
 
@@ -20,9 +20,10 @@ Aqui estão algumas linguagens e tecnologias que já utilizei nos meus estudos e
 
 ---
 
-## 🌐 Vamos nos conectar?
-- 💼 [LinkedIn](https://linkedin.com/in/)  
-- 📧 [E-mail](mailto:jose.thoomaz@gmail.com)
+## 🌐 Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
+[![E-mail](https://img.shields.io/badge/E--mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.thoomaz@gmail.com)
 
 ---
 
