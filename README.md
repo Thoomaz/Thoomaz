@@ -12,9 +12,10 @@ Aqui estão algumas linguagens e tecnologias que já utilizei nos meus estudos e
 
 ---
 
-![Thomaz GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoomaz&show_icons=true&theme=tokyonight)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoomaz&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thoomaz&show_icons=true&theme=tokyonight" alt="Thomaz GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoomaz&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="150"/>
+</p>
 
 ---
 
